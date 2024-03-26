@@ -1,0 +1,4 @@
+PORT = 5000
+CONNECTION_STRING = mongodb+srv://harikumarv9000:BhvcxBI56mbJQtUx@cluster0.aleflo9.mongodb.net/
+
+ACCESS_TOKEN_SECRET= HARI12345
